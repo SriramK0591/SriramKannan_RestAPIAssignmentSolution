@@ -8,10 +8,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gl</groupId>
-	<artifactId>employee-api</artifactId>
+	<artifactId>student-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>student-api</name>
-	<description>Spring Security for Student Debate</description>
+	<name>Employee-api</name>
+	<description>Spring Security for Employee Management</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
