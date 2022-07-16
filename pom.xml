@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gl</groupId>
-	<artifactId>student-api</artifactId>
+	<artifactId>employee-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Employee-api</name>
 	<description>Spring Security for Employee Management</description>
